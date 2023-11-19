@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "WinUIAppBarButtonFlyoutRepro (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "WinUIAppBarButtonFlyoutRepro (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
